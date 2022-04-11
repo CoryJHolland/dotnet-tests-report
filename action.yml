@@ -2,7 +2,7 @@
 ## This is a SAMPLE metadata file for a GitHub Action.  For more info:
 ##    https://help.github.com/en/articles/metadata-syntax-for-github-actions
 
-name: dotnet-tests-report
+name: dotnet-tests-report-tmpdir-change
 author: EBekker
 description: |
   Executes .NET (dotnet) tests within a GitHub Workflow
